@@ -1363,3 +1363,30 @@ section {
     padding: 3px 0;
   }
 }
+form label {
+	/*display: flex;*/
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+.job-form{
+  text-align:center;
+	background-color: #fff;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+	padding: 50px;
+	/*margin-bottom: 20px;
+        /*display: flex;*/
+        /*justify-content: center;*/
+      border:rgb(218, 82, 32);
+      border-style: solid;
+      border-radius: 10px;
+      margin-top: 50px;
+      margin-left:100px;
+      margin-right:100px;
+}
+form{display:inline-block;
+margin-left:auto;
+margin-right:auto;
+text-align:left;}
+div.form{display:block;
+text-align:center;
+}
